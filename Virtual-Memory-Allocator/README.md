@@ -43,3 +43,6 @@ As an additional feature, I implemented:
 
 ## Conclusion
 This project provides a practical application of data structures in C and simulates essential memory management concepts. By completing this project, I gained valuable experience in implementing and managing dynamic memory allocation systems.
+
+## More info about the functionality of the project:
+https://ocw.cs.pub.ro/courses/sd-ca/teme/tema1-2023
